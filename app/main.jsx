@@ -34,7 +34,7 @@ class App extends React.Component {
 const products = [
     {
         "ProductID": 1,
-        "ProductName": "Chai",
+        "ProductName": "雇员保密协定",
         "CategoryID": 1,
         "UnitPrice": 18.0000,
         "UnitsInStock": 39,
